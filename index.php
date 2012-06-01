@@ -18,7 +18,7 @@
 
 	define("GALLERY_ROOT", "./");
 	define("DATA_ROOT", "./_sfpg_data/");
-	define("SECURITY_PHRASE", "awer");
+	define("SECURITY_PHRASE", "changeme");
 
 	define("DIR_NAME_FILE", "_name.txt");
 	define("DIR_IMAGE_FILE", "_image.jpg");
